@@ -261,7 +261,7 @@ nav .nav-active li {
   width: 80%;
   text-align: center;
   position: relative;
-  top: 45vh;
+  top: 52vh;
   margin: auto;
   color: #252c59;
 }
@@ -501,6 +501,10 @@ nav .nav-active li {
       -ms-flex: 1;
           flex: 1;
   padding: 3rem;
+}
+
+.kontakt .left .email {
+  text-decoration: none;
 }
 
 .kontakt .right {
